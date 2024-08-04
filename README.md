@@ -42,6 +42,17 @@ Certified Information Technology professional with nine years experience, lookin
     <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
+### Tech Stack
+<div>
+
+<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" /> 
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" /> 
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+<div>
+    
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-SSCP-6DB33F?&style=for-the-badge&logo=SSCP&logoColor=white" />
@@ -59,3 +70,4 @@ Certified Information Technology professional with nine years experience, lookin
 - Cloud
 - Vulnerability Management
 - SOC Automation Project
+
