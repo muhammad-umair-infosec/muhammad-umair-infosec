@@ -9,7 +9,6 @@ I am an Information Security professional with profound interest in technology a
 Certified Information Technology professional with nine years experience, looking for a security-focused position to exercise exemplary vulnerability management, endpoint protection and identity and access management skills.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -20,7 +19,7 @@ Certified Information Technology professional with nine years experience, lookin
 | Patching endpoints for Threat Mitigation 	| Vulnerbility Management|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
