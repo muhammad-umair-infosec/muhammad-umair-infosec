@@ -43,7 +43,6 @@ Certified Information Technology professional with nine years experience, lookin
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-SSCP-6DB33F?&style=for-the-badge&logo=SSCP&logoColor=white" />
 <img src="https://img.shields.io/badge/-Fortinet_Network_Security_Expert-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
